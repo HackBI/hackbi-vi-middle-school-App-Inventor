@@ -18,19 +18,24 @@ To teach the participants the basics of MIT App Inventor.
 ## Basics: 
 * This part will be part hands-on teaching and them exploring the website, components, and code blocks more. Working on learning about how to navigate the app builder, understanding block coding, and having free time to explore/ experiment with what app inventor has to offer.
 
-Challenges:  
-
+## Challenges:  
 1. Make the be able to be drawn on and shake.
 2. Make a whack a mole game with an image sprite
 3. Create a functional game of choice
 
  
-Downloading MIT App Inventor App: 
+## Downloading MIT App Inventor App: 
 To code we will use the MIT App Inventor website, but when it comes to testing the apps will be
-downloading it for free from either the android or apple app store. MIT App Inventor website:
+downloading it for free from either the android or apple app store. 
+
+MIT App Inventor website:
 http://ai2.appinventor.mit.edu/ App Name: “MIT App Inventor”
-Other Helpful Resources
+
+## Other Helpful Resources
 App Inventor Basic Components: https://appinventor.mit.edu/explore/content/basic.html
+
 App inventor Build-in blocks: http://ai2.appinventor.mit.edu/reference/blocks/
+
 App Inventor Tutorials: https://appinventor.mit.edu/explore/ai2/tutorials
+
 App Inventor Procedures Tutorial: https://youtu.be/3eHQsATBhcI
